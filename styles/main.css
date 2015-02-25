@@ -1,0 +1,77 @@
+/* from general to specific */
+body{
+	font-family:sans-serif;
+}
+fieldset{
+	border:0;
+}
+.block{
+	display:block;
+}
+.floatLeft{
+	float:left;
+}
+.labelDefault{
+	margin:15px 0 12px 0;
+}
+.inputDefault{
+	background-color:#F4F4F4;
+	width:48%;
+	height:25px;
+}
+.termsAndConditions{
+	margin:17px 0;
+}
+.checkboxContainer{
+	background:url(../images/checkboxSpriteA.png) -8px -59px no-repeat;
+	margin:0 9px 0 0;
+	width:17px;
+	height:17px;
+}
+.checkboxContainer:hover{
+	background-position-y:-6px;
+}
+.checkboxDefault{
+	display:block;
+	margin:0 0 0 0;
+	width:17px;
+	height:17px;
+	opacity:0.5;
+}
+.borderTop{
+	border-top: solid 2px #D4D4D4;
+}
+.borderDefault{
+	border-radius:6px;
+}
+.formDefault{
+	margin:0 0 0 10px;
+}
+.boxShadow{
+	box-shadow:7px 3px 11px #888888;
+}
+.boxShadowLight{
+	box-shadow:5px 2px 8px #BDBDBD;
+}
+.bkColorLightGray{
+	background-color:#EAEAEA;
+}
+.bkColorGray{
+	background-color:#E1E1E1;
+}
+.bold{
+	font-weight:bold;
+}
+.center{
+	margin:auto;
+}
+.container{
+	width:25%;
+	min-width:440px;
+}
+.formHeading{
+	color:#3874CA;
+	margin:5px 0;
+	width:90%;
+	text-align:center;
+}
