@@ -65,6 +65,21 @@ fieldset{
 .center{
 	margin:auto;
 }
+.btn{
+	background:url(../images/sun.png) 0px 0px no-repeat;
+	box-shadow:4px 6px 6px #888888;
+	color:#FFFFFF;
+	border-radius:10px;
+	height:30px;
+	width:100px;
+	cursor:pointer;
+}
+.btn:hover{
+	background-position-y:-52px;
+	box-shadow:4px 6px 6px #CCCCCC;
+	color:#CCCCCC;
+	font-weight:bold;
+}
 .container{
 	width:25%;
 	min-width:440px;
