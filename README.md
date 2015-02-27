@@ -15,12 +15,12 @@
  <ul>
 <ul>
 	<li>CSS3 for presentation</li>
-	<li>Grunt for CSS lint, JS Lint, and compression</li>
+	<li>Grunt for CSS lint, and compression</li>
 </ul>
 </ul>
 <h4>Fundemental Architecture</h4>
 <dl>
-	<h3>cssWork/site/</h3>
+	<h3>cssWork</h3>
 	<dd>html resources</dd>
 	<dt>styles</dt>
 	<dd>CSS resources</dd>
